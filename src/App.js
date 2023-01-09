@@ -20,7 +20,7 @@ export default function App() {
   return (
     <div className="App">
       <div classname="container">
-        <h3 style={{ textAlign: "center" }}>TODO LIST </h3>
+        <h3 style={{ textAlign: "center" }}>WHAT'S TODAY ? </h3>
         <div style={{ marginTop: 10 }}>
           <input
             value={input}
