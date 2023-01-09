@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  padding: 30px;
+  height: 300px;
+  width: 330px;
+  background-color: aliceblue;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+}
